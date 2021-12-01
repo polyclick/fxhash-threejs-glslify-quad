@@ -63,6 +63,6 @@ Open a github issue and I'll see what I can do.
 
 
 ---
-Follow me on twitter at https://twitter.com/polyclickkkkk
-See what I make with this on FXHash: https://fxhash.xyz/u/polyclick
+Follow me on twitter at https://twitter.com/polyclickkkkk  
+See what I make with this on FXHash: https://fxhash.xyz/u/polyclick  
 Instagram: https://instagram.com/polyclick
