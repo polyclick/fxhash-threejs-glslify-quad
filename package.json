@@ -1,0 +1,30 @@
+{
+  "name": "fxhash-threejs-glslify-quad",
+  "version": "1.0.0",
+  "description": "Three.js boilerplate code for a square quad with custom shader & glslify support for use on FXHash.xyz",
+  "main": "index.js",
+  "author": "polyclick",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack --config ./config/webpack.config.prod.js",
+    "dev": "webpack serve --config ./config/webpack.config.dev.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@yushijinhun/three-minifier-webpack": "^0.3.0",
+    "adm-zip": "^0.5.9",
+    "copy-webpack-plugin": "^10.0.0",
+    "css-loader": "^6.4.0",
+    "glsl-noise": "^0.0.0",
+    "glsl-random": "^0.0.5",
+    "glslify-import": "^3.1.0",
+    "glslify-loader": "^2.0.0",
+    "html-webpack-plugin": "^5.4.0",
+    "raw-loader": "^4.0.2",
+    "style-loader": "^3.3.0",
+    "three": "^0.135.0",
+    "webpack": "^5.59.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.3.1"
+  }
+}
